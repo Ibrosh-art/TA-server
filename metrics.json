@@ -1,0 +1,19 @@
+{
+  "cagr": 30,
+  "volatility": 13.8,
+  "calmarRatio": 0.83,
+  "alpha": 2.1,
+  "beta": 0.72,
+  "skewness": 0.5,
+  "kurtosis": 3.2,
+  "positiveDays": 56,
+  "avgWinLoss": 1.7,
+  "exposureTime": 78,
+  "sharpe": 1.42,
+  "sortino": 2.01,
+  "maxDrawdown": -6.5,
+  "winrate": 80,
+  "profitFactor": 1.8,
+  "expectancy": 0.4,
+  "kelly": 15.2
+}
